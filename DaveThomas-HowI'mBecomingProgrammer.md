@@ -62,7 +62,11 @@ Wow, fantastic conference.
 
 I'm not gonna I'm sure at the end.
 
-We will have a nice summary so I'm not gonna gush too much but I must admit I always enjoy these conferences so thank you to everybody involved.
+We will have a nice summary.
+
+So, I'm not gonna gush too much, but I must admit I always enjoy these conferences.
+
+So, thank you to everybody involved.
 
 How many people have seen me speak at a previous Elixir event?
 
@@ -72,15 +76,19 @@ Oh, for a number twice?
 
 (Notice: Same here)
 
-All right, so the ones that have seen me speak are kind of nervous right now the ones that see me speak twice and kind of wondering if they can get out of the room.
-
-Because I kind of have a bit of a nasty habit.
+All right, so the ones that have seen me speak are kind of nervous right now, and the ones that see me speak twice are kind of wondering if they can get out of the room, because I kind of have a bit of a nasty habit.
 
 ---
 
 ワォ、ファンタスティックなカンファレンスですね
 
-ナイスなサマリーがあるので、私はあまり気を使っていませんが、いつもカンファレンスを楽しんでいることは確かで、関係者全員に感謝です
+私はそういうつもりはないけれど、私がこのカンファレンスの最後の登壇者だと思います
+
+私たちはカンファレンスのまとめをしましょう
+
+なので，あまりたくさんしゃべるつもりはありません、でも、私はいつもこれらのカンファレンスを楽しんでいることを認めます
+
+関係するみなさん全員に感謝です
 
 以前のElixirイベントで私が話すのを見た人は何人いますか？
 
@@ -90,9 +98,7 @@ Because I kind of have a bit of a nasty habit.
 
 （※訳者コメント：コチラも手を挙げてるでしょう）
 
-オーライ、私が話すのを見たこと無い人達は、今、緊張していて、2回目の人達は、部屋を出ていかないのが不思議ですね
-
-なぜなら、私はちょっと厄介な癖があります
+了解しました。では、私が話すのを見たことがある人は、今、緊張していて、2回目の人達は、部屋を出ていかないのが不思議ですね、というのは、私はちょっと厄介な癖があるからです
 
 # OTPは過大評価されています（OTP IS OVER RATED）
 
